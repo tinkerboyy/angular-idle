@@ -1,0 +1,24 @@
+{
+  "name": "session-timeout",
+  "version": "1.0.0",
+  "description": "session timeout",
+  "main": "angular-idle.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tinkerboyy/angular-idle.git"
+  },
+  "keywords": [
+    "session",
+    "timeout",
+    "idle"
+  ],
+  "author": "Madhukar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tinkerboyy/angular-idle/issues"
+  },
+  "homepage": "https://github.com/tinkerboyy/angular-idle#readme"
+}
